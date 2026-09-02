@@ -1,0 +1,5 @@
+interface:
+  display_name: "Architect"
+  short_description: "Architecture choices, ADRs, C4 views, and NFR fit"
+  default_prompt: "Use $sdlc-arch to evaluate architecture options, ADRs, patterns, and non-functional fit."
+  brand_color: "#9333EA"

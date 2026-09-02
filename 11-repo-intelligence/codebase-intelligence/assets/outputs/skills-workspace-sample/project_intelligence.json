@@ -1,0 +1,559 @@
+{
+  "artifact_type": "codebase-intelligence",
+  "generated_at": "2026-04-28T00:28:02Z",
+  "project_root": "C:\\Users\\HASAN\\.agents\\skills",
+  "output_dir": "C:\\Users\\HASAN\\.agents\\skills\\codebase-intelligence\\assets\\outputs\\skills-workspace-sample",
+  "summary": {
+    "file_count": 263,
+    "manifest_count": 0,
+    "entrypoint_count": 0,
+    "frameworks_detected": [],
+    "primary_languages": [
+      "Markdown",
+      "Python",
+      "YAML",
+      "JSON",
+      "PowerShell"
+    ],
+    "cross_directory_edge_count": 0,
+    "cycle_group_count": 0,
+    "risk_count": 1,
+    "files_truncated": false
+  },
+  "languages": [
+    {
+      "language": "Markdown",
+      "count": 143
+    },
+    {
+      "language": "Python",
+      "count": 77
+    },
+    {
+      "language": "YAML",
+      "count": 22
+    },
+    {
+      "language": "JSON",
+      "count": 16
+    },
+    {
+      "language": "PowerShell",
+      "count": 1
+    },
+    {
+      "language": "Shell",
+      "count": 1
+    }
+  ],
+  "manifests": [],
+  "frameworks": [],
+  "entrypoints": [],
+  "directories": [
+    {
+      "directory": "sdlc-requirements-guru",
+      "count": 28
+    },
+    {
+      "directory": "sdlc-dev",
+      "count": 21
+    },
+    {
+      "directory": "sdlc-devops",
+      "count": 19
+    },
+    {
+      "directory": "sdlc-qa",
+      "count": 19
+    },
+    {
+      "directory": "sdlc-arch",
+      "count": 18
+    },
+    {
+      "directory": "sdlc-pm-project",
+      "count": 18
+    },
+    {
+      "directory": "desktop-ui-designer",
+      "count": 16
+    },
+    {
+      "directory": "sdlc-ba",
+      "count": 16
+    },
+    {
+      "directory": "sdlc-orchestrator",
+      "count": 16
+    },
+    {
+      "directory": "sdlc-pm-product",
+      "count": 16
+    },
+    {
+      "directory": "sdlc-system",
+      "count": 15
+    },
+    {
+      "directory": "delivery-sync",
+      "count": 8
+    },
+    {
+      "directory": "docs-automation",
+      "count": 8
+    },
+    {
+      "directory": "meeting-to-backlog",
+      "count": 8
+    },
+    {
+      "directory": "release-manager",
+      "count": 8
+    }
+  ],
+  "files": {
+    "largest_files": [
+      {
+        "path": "sdlc-system/generate_sdlc_suite.py",
+        "name": "generate_sdlc_suite.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 66377,
+        "line_count": 971,
+        "top_level": "sdlc-system",
+        "category": "source"
+      },
+      {
+        "path": "codebase-intelligence/scripts/analyze_codebase.py",
+        "name": "analyze_codebase.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 35124,
+        "line_count": 944,
+        "top_level": "codebase-intelligence",
+        "category": "source"
+      },
+      {
+        "path": "sdlc-system/references/legacy_briefs/information_skills_sdlc_brief_raw.md",
+        "name": "information_skills_sdlc_brief_raw.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 33230,
+        "line_count": 1601,
+        "top_level": "sdlc-system",
+        "category": "documentation"
+      },
+      {
+        "path": "sdlc-system/python_lib/sdlc_common.py",
+        "name": "sdlc_common.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 28127,
+        "line_count": 805,
+        "top_level": "sdlc-system",
+        "category": "source"
+      },
+      {
+        "path": "desktop-ui-designer/scripts/performance_audit.py",
+        "name": "performance_audit.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 15223,
+        "line_count": 380,
+        "top_level": "desktop-ui-designer",
+        "category": "source"
+      },
+      {
+        "path": "desktop-ui-designer/scripts/extract_theme.py",
+        "name": "extract_theme.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 9479,
+        "line_count": 299,
+        "top_level": "desktop-ui-designer",
+        "category": "source"
+      },
+      {
+        "path": "desktop-ui-designer/scripts/analyze_project_structure.py",
+        "name": "analyze_project_structure.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 9295,
+        "line_count": 253,
+        "top_level": "desktop-ui-designer",
+        "category": "source"
+      },
+      {
+        "path": "sdlc-system/VALIDATION_REPORT.md",
+        "name": "VALIDATION_REPORT.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 8732,
+        "line_count": 382,
+        "top_level": "sdlc-system",
+        "category": "documentation"
+      },
+      {
+        "path": "desktop-ui-designer/references/fallback_patterns.md",
+        "name": "fallback_patterns.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 8264,
+        "line_count": 315,
+        "top_level": "desktop-ui-designer",
+        "category": "documentation"
+      },
+      {
+        "path": "desktop-ui-designer/references/performance.md",
+        "name": "performance.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 7791,
+        "line_count": 304,
+        "top_level": "desktop-ui-designer",
+        "category": "documentation"
+      },
+      {
+        "path": "desktop-ui-designer/references/accessibility.md",
+        "name": "accessibility.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 7629,
+        "line_count": 302,
+        "top_level": "desktop-ui-designer",
+        "category": "documentation"
+      },
+      {
+        "path": "desktop-ui-designer/scripts/detect_os_capabilities.py",
+        "name": "detect_os_capabilities.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 6338,
+        "line_count": 195,
+        "top_level": "desktop-ui-designer",
+        "category": "source"
+      },
+      {
+        "path": "desktop-ui-designer/references/animations.md",
+        "name": "animations.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 5797,
+        "line_count": 287,
+        "top_level": "desktop-ui-designer",
+        "category": "documentation"
+      },
+      {
+        "path": "sdlc-system/python_lib/authored_skill_tools.py",
+        "name": "authored_skill_tools.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 5309,
+        "line_count": 160,
+        "top_level": "sdlc-system",
+        "category": "source"
+      },
+      {
+        "path": "sdlc-system/AUTHORED_VALIDATION_REPORT.md",
+        "name": "AUTHORED_VALIDATION_REPORT.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 4801,
+        "line_count": 243,
+        "top_level": "sdlc-system",
+        "category": "documentation"
+      }
+    ],
+    "longest_files": [
+      {
+        "path": "sdlc-system/references/legacy_briefs/information_skills_sdlc_brief_raw.md",
+        "name": "information_skills_sdlc_brief_raw.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 33230,
+        "line_count": 1601,
+        "top_level": "sdlc-system",
+        "category": "documentation"
+      },
+      {
+        "path": "sdlc-system/generate_sdlc_suite.py",
+        "name": "generate_sdlc_suite.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 66377,
+        "line_count": 971,
+        "top_level": "sdlc-system",
+        "category": "source"
+      },
+      {
+        "path": "codebase-intelligence/scripts/analyze_codebase.py",
+        "name": "analyze_codebase.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 35124,
+        "line_count": 944,
+        "top_level": "codebase-intelligence",
+        "category": "source"
+      },
+      {
+        "path": "sdlc-system/python_lib/sdlc_common.py",
+        "name": "sdlc_common.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 28127,
+        "line_count": 805,
+        "top_level": "sdlc-system",
+        "category": "source"
+      },
+      {
+        "path": "sdlc-system/VALIDATION_REPORT.md",
+        "name": "VALIDATION_REPORT.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 8732,
+        "line_count": 382,
+        "top_level": "sdlc-system",
+        "category": "documentation"
+      },
+      {
+        "path": "desktop-ui-designer/scripts/performance_audit.py",
+        "name": "performance_audit.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 15223,
+        "line_count": 380,
+        "top_level": "desktop-ui-designer",
+        "category": "source"
+      },
+      {
+        "path": "desktop-ui-designer/references/fallback_patterns.md",
+        "name": "fallback_patterns.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 8264,
+        "line_count": 315,
+        "top_level": "desktop-ui-designer",
+        "category": "documentation"
+      },
+      {
+        "path": "desktop-ui-designer/references/performance.md",
+        "name": "performance.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 7791,
+        "line_count": 304,
+        "top_level": "desktop-ui-designer",
+        "category": "documentation"
+      },
+      {
+        "path": "desktop-ui-designer/references/accessibility.md",
+        "name": "accessibility.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 7629,
+        "line_count": 302,
+        "top_level": "desktop-ui-designer",
+        "category": "documentation"
+      },
+      {
+        "path": "desktop-ui-designer/scripts/extract_theme.py",
+        "name": "extract_theme.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 9479,
+        "line_count": 299,
+        "top_level": "desktop-ui-designer",
+        "category": "source"
+      },
+      {
+        "path": "desktop-ui-designer/references/animations.md",
+        "name": "animations.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 5797,
+        "line_count": 287,
+        "top_level": "desktop-ui-designer",
+        "category": "documentation"
+      },
+      {
+        "path": "desktop-ui-designer/scripts/analyze_project_structure.py",
+        "name": "analyze_project_structure.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 9295,
+        "line_count": 253,
+        "top_level": "desktop-ui-designer",
+        "category": "source"
+      },
+      {
+        "path": "sdlc-system/AUTHORED_VALIDATION_REPORT.md",
+        "name": "AUTHORED_VALIDATION_REPORT.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 4801,
+        "line_count": 243,
+        "top_level": "sdlc-system",
+        "category": "documentation"
+      },
+      {
+        "path": "desktop-ui-designer/scripts/detect_os_capabilities.py",
+        "name": "detect_os_capabilities.py",
+        "extension": ".py",
+        "language": "Python",
+        "size_bytes": 6338,
+        "line_count": 195,
+        "top_level": "desktop-ui-designer",
+        "category": "source"
+      },
+      {
+        "path": "desktop-ui-designer/references/glassmorphism_fallback.md",
+        "name": "glassmorphism_fallback.md",
+        "extension": ".md",
+        "language": "Markdown",
+        "size_bytes": 4430,
+        "line_count": 168,
+        "top_level": "desktop-ui-designer",
+        "category": "documentation"
+      }
+    ]
+  },
+  "relationships": {
+    "resolved_edge_count": 0,
+    "resolved_edges_sample": [],
+    "most_referenced_files": [],
+    "most_connected_files": [],
+    "cross_directory_edges": [],
+    "external_dependencies": [
+      {
+        "name": "pathlib",
+        "count": 75
+      },
+      {
+        "name": "sys",
+        "count": 75
+      },
+      {
+        "name": "sdlc_common",
+        "count": 67
+      },
+      {
+        "name": "__future__",
+        "count": 11
+      },
+      {
+        "name": "argparse",
+        "count": 10
+      },
+      {
+        "name": "json",
+        "count": 9
+      },
+      {
+        "name": "os",
+        "count": 7
+      },
+      {
+        "name": "re",
+        "count": 5
+      },
+      {
+        "name": "typing",
+        "count": 5
+      },
+      {
+        "name": "subprocess",
+        "count": 5
+      },
+      {
+        "name": "collections",
+        "count": 3
+      },
+      {
+        "name": "authored_skill_tools",
+        "count": 3
+      },
+      {
+        "name": "ast",
+        "count": 1
+      },
+      {
+        "name": "dataclasses",
+        "count": 1
+      },
+      {
+        "name": "datetime",
+        "count": 1
+      }
+    ],
+    "unresolved_internal_imports": [],
+    "cycle_groups": [],
+    "files_with_most_imports": [
+      {
+        "path": "codebase-intelligence/scripts/analyze_codebase.py",
+        "count": 11
+      },
+      {
+        "path": "desktop-ui-designer/scripts/performance_audit.py",
+        "count": 10
+      },
+      {
+        "path": "sdlc-system/python_lib/authored_skill_tools.py",
+        "count": 8
+      },
+      {
+        "path": "desktop-ui-designer/scripts/extract_theme.py",
+        "count": 7
+      },
+      {
+        "path": "desktop-ui-designer/scripts/analyze_project_structure.py",
+        "count": 6
+      },
+      {
+        "path": "meeting-to-backlog/scripts/meeting_notes_to_backlog.py",
+        "count": 6
+      },
+      {
+        "path": "sdlc-system/python_lib/sdlc_common.py",
+        "count": 6
+      },
+      {
+        "path": "skill-registry-manager/scripts/audit_skill_registry.py",
+        "count": 6
+      },
+      {
+        "path": "delivery-sync/scripts/build_tracker_sync_payload.py",
+        "count": 5
+      },
+      {
+        "path": "desktop-ui-designer/scripts/detect_os_capabilities.py",
+        "count": 5
+      },
+      {
+        "path": "docs-automation/scripts/build_docs_sync_plan.py",
+        "count": 5
+      },
+      {
+        "path": "release-manager/scripts/build_release_bundle.py",
+        "count": 5
+      },
+      {
+        "path": "repo-intake-triage/scripts/triage_repo_item.py",
+        "count": 5
+      },
+      {
+        "path": "sdlc-system/generate_sdlc_suite.py",
+        "count": 5
+      },
+      {
+        "path": "sdlc-system/sync_authored_skills.py",
+        "count": 5
+      }
+    ]
+  },
+  "risks": [
+    {
+      "severity": "medium",
+      "message": "Oversized files detected: sdlc-system/references/legacy_briefs/information_skills_sdlc_brief_raw.md."
+    }
+  ]
+}

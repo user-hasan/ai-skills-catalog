@@ -1,0 +1,7 @@
+interface:
+  display_name: "Docs Automation"
+  short_description: "Keep docs aligned with delivery and release changes"
+  default_prompt: "Use $docs-automation to map project changes into a documentation update plan."
+  brand_color: "#2563EB"
+policy:
+  allow_implicit_invocation: true

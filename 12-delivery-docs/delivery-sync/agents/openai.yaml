@@ -1,0 +1,7 @@
+interface:
+  display_name: "Delivery Sync"
+  short_description: "Bridge local delivery artifacts into live trackers"
+  default_prompt: "Use $delivery-sync to turn local delivery artifacts into Linear, GitHub, or Notion sync payloads."
+  brand_color: "#0F766E"
+policy:
+  allow_implicit_invocation: true

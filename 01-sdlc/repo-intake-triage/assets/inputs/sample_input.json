@@ -1,0 +1,14 @@
+{
+  "title": "Crash when saving project settings",
+  "actual_behavior": "The settings dialog closes and the desktop app exits.",
+  "expected_behavior": "Settings should save and return to the main window.",
+  "steps_to_reproduce": [
+    "Open settings",
+    "Change the sync interval",
+    "Click save"
+  ],
+  "labels": [
+    "desktop",
+    "regression"
+  ]
+}

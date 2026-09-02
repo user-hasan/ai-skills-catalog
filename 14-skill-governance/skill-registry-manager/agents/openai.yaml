@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Registry Manager"
+  short_description: "Validate, publish, and audit authored skills"
+  default_prompt: "Use $skill-registry-manager to audit the authored skill workspace and publish state."
+  brand_color: "#334155"
+policy:
+  allow_implicit_invocation: true

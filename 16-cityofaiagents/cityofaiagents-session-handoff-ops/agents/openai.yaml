@@ -1,0 +1,4 @@
+interface:
+  display_name: "CityOfAIAgents Session Handoff Ops"
+  short_description: "Verify session handoff workflows"
+  default_prompt: "Use cityofaiagents-session-handoff-ops to analyze session handoff behavior, split-credit flows, timer continuity, and regression evidence."

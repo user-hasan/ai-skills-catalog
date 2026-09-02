@@ -1,0 +1,7 @@
+interface:
+  display_name: "CityOfAIAgents Visual GUI Verification Ops"
+  short_description: "Mirrored visual desktop GUI verification guidance"
+  default_prompt: "Use $cityofaiagents-visual-gui-verification-ops when visual desktop GUI verification guidance is needed."
+  brand_color: "#1D4ED8"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codebase Intelligence"
+  short_description: "Deep project analysis with dependency and architecture mapping"
+  default_prompt: "Use $codebase-intelligence to analyze a repository, map file relationships, and refresh durable project intelligence artifacts."
+  brand_color: "#0F4C81"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,9 @@
+{
+  "artifact_type": "future-risk-forecast-output",
+  "generated_at": "2026-04-28T01:58:06Z",
+  "repo_root": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "risk_count": 8,
+  "artifacts": {
+    "risk_register": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\risks\\risk_register.json"
+  }
+}

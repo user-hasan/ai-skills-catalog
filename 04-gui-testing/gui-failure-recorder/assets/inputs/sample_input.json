@@ -1,0 +1,25 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-gui-testing-sample-repo",
+  "test_name": "tests/test_app_window.py::test_main_window_title",
+  "window": "MainWindow",
+  "widget": "title_label",
+  "traceback": "AssertionError: expected visible title label",
+  "reproduction_steps": [
+    "Run pytest-qt test slice.",
+    "Open MainWindow.",
+    "Inspect title label."
+  ],
+  "affected_files": [
+    "src/app_window.py",
+    "tests/test_app_window.py"
+  ],
+  "severity": "medium",
+  "confidence": 0.82,
+  "verification_command": [
+    "python",
+    "-m",
+    "pytest",
+    "-q",
+    "tests/test_app_window.py::test_main_window_title"
+  ]
+}

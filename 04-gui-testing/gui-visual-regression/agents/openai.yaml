@@ -1,0 +1,7 @@
+interface:
+  display_name: "GUI Visual Regression"
+  short_description: "Screenshot comparison and visual layout regression reports"
+  default_prompt: "Use $gui-visual-regression to screenshot comparison and visual layout regression reports for the current repository."
+  brand_color: "#DB2777"
+policy:
+  allow_implicit_invocation: true

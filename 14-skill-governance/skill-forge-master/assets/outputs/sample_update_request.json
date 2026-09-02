@@ -1,0 +1,31 @@
+{
+  "artifact_type": "skill-update-request",
+  "generated_at": "2026-04-28T01:30:05Z",
+  "request_id": "system-diagnostics-20260428T013005Z",
+  "target_skill": "system-diagnostics",
+  "category": "frameworks-languages-infra",
+  "origin": "skill-forge-master",
+  "intent": "Create a diagnostics skill for enterprise projects",
+  "mode": "create",
+  "proposed_scope": {
+    "files": [
+      "C:\\Users\\HASAN\\.agents\\skills\\system-diagnostics\\SKILL.md",
+      "C:\\Users\\HASAN\\.agents\\skills\\system-diagnostics\\agents\\openai.yaml",
+      "C:\\Users\\HASAN\\.agents\\skills\\system-diagnostics\\scripts",
+      "C:\\Users\\HASAN\\.agents\\skills\\system-diagnostics\\references",
+      "C:\\Users\\HASAN\\.agents\\skills\\system-diagnostics\\assets"
+    ],
+    "shared_dependency_declared": false
+  },
+  "quality_summary": {
+    "quality_grade": "new",
+    "total_score": 0,
+    "issue_codes": [
+      "skill_missing"
+    ]
+  },
+  "constraints": [
+    "Keep the initial version read-only and diagnosis-first",
+    "Require durable evidence outputs under the skill assets model"
+  ]
+}

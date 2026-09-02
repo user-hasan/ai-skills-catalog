@@ -1,0 +1,15 @@
+{
+  "artifact_type": "security-gate",
+  "gate_status": "fail",
+  "open_findings": [
+    {
+      "title": "Hard-coded production token",
+      "severity": "critical",
+      "owner": "platform-security",
+      "status": "open"
+    }
+  ],
+  "recommended_actions": [
+    "Resolve all critical findings before release."
+  ]
+}

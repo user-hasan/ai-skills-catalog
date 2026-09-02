@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Update Governor"
+  short_description: "Scope, approve, and verify skill updates safely"
+  default_prompt: "Use $skill-update-governor to review a skill update request, constrain its scope, and define verification requirements."
+  brand_color: "#7E22CE"
+policy:
+  allow_implicit_invocation: true

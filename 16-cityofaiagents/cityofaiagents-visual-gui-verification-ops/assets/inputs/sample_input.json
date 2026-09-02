@@ -1,0 +1,11 @@
+{
+  "target_flow": "Launch desktop app, open settings dialog, verify warning banner",
+  "expected_state": [
+    "Settings dialog is visible",
+    "Warning banner remains readable after resize"
+  ],
+  "evidence_needs": [
+    "Screenshot before and after resize",
+    "Step-by-step interaction log"
+  ]
+}

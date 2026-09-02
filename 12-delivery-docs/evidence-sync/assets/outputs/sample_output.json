@@ -1,0 +1,8 @@
+{
+  "artifact_type": "evidence-sync-output",
+  "generated_at": "2026-04-29T23:32:42Z",
+  "artifacts": {
+    "evidence_bundle": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\evidence\\evidence_bundle.json"
+  },
+  "source_artifact_count": 9
+}

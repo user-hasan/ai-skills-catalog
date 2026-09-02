@@ -1,0 +1,19 @@
+{
+  "project_name": "platform-upgrade",
+  "tasks": [
+    {
+      "id": "PLAT-101",
+      "title": "Ship migration dry run",
+      "status": "in-progress",
+      "owner": "infra",
+      "priority": "high"
+    },
+    {
+      "id": "PLAT-102",
+      "title": "Publish rollback checklist",
+      "status": "todo",
+      "owner": "release",
+      "priority": "medium"
+    }
+  ]
+}

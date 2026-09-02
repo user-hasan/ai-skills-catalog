@@ -1,0 +1,19 @@
+{
+  "artifact_type": "change-scope-report",
+  "generated_at": "2026-04-28T01:31:22Z",
+  "target_skill": "security-gate",
+  "proposed_scope": {
+    "files": [
+      "C:\\Users\\HASAN\\.agents\\skills\\security-gate\\SKILL.md",
+      "C:\\Users\\HASAN\\.agents\\skills\\security-gate\\references",
+      "C:\\Users\\HASAN\\.agents\\skills\\security-gate\\scripts"
+    ],
+    "shared_dependency_declared": false
+  },
+  "impact_summary": {
+    "direct_reference_count": 0,
+    "requires_governance_review": true
+  },
+  "direct_skill_references": [],
+  "decision_inputs": {}
+}

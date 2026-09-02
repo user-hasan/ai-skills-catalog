@@ -1,0 +1,4 @@
+interface:
+  display_name: "CityOfAIAgents Translation Ops"
+  short_description: "Translate Arabic reports accurately"
+  default_prompt: "Use cityofaiagents-translation-ops to translate Arabic and English requests, preserve technical identifiers, and localize user-facing reports."

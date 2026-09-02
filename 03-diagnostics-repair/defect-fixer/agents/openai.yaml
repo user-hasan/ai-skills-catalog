@@ -1,0 +1,7 @@
+interface:
+  display_name: "Defect Fixer"
+  short_description: "Turn findings into scoped repair plans and fixes"
+  default_prompt: "Use $defect-fixer to convert findings into a scoped repair plan and optional declarative repository fixes."
+  brand_color: "#15803D"
+policy:
+  allow_implicit_invocation: true

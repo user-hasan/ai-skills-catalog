@@ -1,0 +1,7 @@
+interface:
+  display_name: "System Diagnostics"
+  short_description: "Detect build, test, config, and runtime failures"
+  default_prompt: "Use $system-diagnostics to analyze a repository for build, test, config, import, and runtime faults."
+  brand_color: "#B91C1C"
+policy:
+  allow_implicit_invocation: true

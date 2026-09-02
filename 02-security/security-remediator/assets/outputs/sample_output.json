@@ -1,0 +1,10 @@
+{
+  "artifact_type": "security-remediator-output",
+  "generated_at": "2026-04-29T23:32:30Z",
+  "artifacts": {
+    "security_remediation_plan": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\security\\security_remediation_plan.json",
+    "repair_plan": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\remediation\\repair_plan.json"
+  },
+  "remediation_count": 1,
+  "kev_priority_count": 0
+}

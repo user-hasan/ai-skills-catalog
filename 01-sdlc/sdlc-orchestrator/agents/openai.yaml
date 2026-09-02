@@ -1,0 +1,5 @@
+interface:
+  display_name: "SDLC Orchestrator"
+  short_description: "Suite coordination, handoffs, validation, and reports"
+  default_prompt: "Use $sdlc-orchestrator to coordinate the full SDLC workflow and validate handoffs between skills."
+  brand_color: "#334155"

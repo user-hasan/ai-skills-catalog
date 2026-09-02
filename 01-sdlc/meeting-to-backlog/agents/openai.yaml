@@ -1,0 +1,7 @@
+interface:
+  display_name: "Meeting To Backlog"
+  short_description: "Turn meeting notes into backlog artifacts"
+  default_prompt: "Use $meeting-to-backlog to convert workshop or meeting notes into actionable backlog items."
+  brand_color: "#16A34A"
+policy:
+  allow_implicit_invocation: true

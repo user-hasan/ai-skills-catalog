@@ -1,0 +1,4 @@
+interface:
+  display_name: "CityOfAIAgents Documentation Authoring"
+  short_description: "Draft operational docs and summaries"
+  default_prompt: "Use cityofaiagents-documentation-authoring to draft markdown artifacts, operator notes, archive summaries, and traceable project documentation."

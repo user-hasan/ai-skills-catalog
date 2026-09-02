@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "title": "Hard-coded production token",
+      "severity": "critical",
+      "owner": "platform-security",
+      "status": "open"
+    },
+    {
+      "title": "Outdated markdown parser dependency",
+      "severity": "medium",
+      "owner": "web-team",
+      "status": "open"
+    }
+  ]
+}

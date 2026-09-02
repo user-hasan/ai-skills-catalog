@@ -1,0 +1,10 @@
+{
+  "artifact_type": "approval-decision",
+  "generated_at": "2026-04-28T01:31:22Z",
+  "request_id": "security-gate-20260428",
+  "target_skill": "security-gate",
+  "decision": "needs review",
+  "reasons": [
+    "The target skill has direct or governance-level dependencies."
+  ]
+}

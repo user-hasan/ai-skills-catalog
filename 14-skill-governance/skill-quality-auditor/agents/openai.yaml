@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Quality Auditor"
+  short_description: "Score and diagnose skill quality with evidence"
+  default_prompt: "Use $skill-quality-auditor to audit a Codex skill and produce a scored quality report with evidence."
+  brand_color: "#14532D"
+policy:
+  allow_implicit_invocation: true

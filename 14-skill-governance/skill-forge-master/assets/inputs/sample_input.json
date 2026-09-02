@@ -1,0 +1,16 @@
+{
+  "skill_name": "system-diagnostics",
+  "mode": "create",
+  "intent": "Create a diagnostics skill for enterprise projects",
+  "purpose": "Detect current faults, build issues, runtime hazards, and likely future failures with durable evidence.",
+  "constraints": [
+    "Keep the initial version read-only and diagnosis-first",
+    "Require durable evidence outputs under the skill assets model"
+  ],
+  "required_outputs": [
+    "skill_design_spec.md",
+    "skill_quality_report.json",
+    "skill_patch_plan.md",
+    "skill_update_request.json"
+  ]
+}

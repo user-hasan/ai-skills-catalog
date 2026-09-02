@@ -1,0 +1,5 @@
+interface:
+  display_name: "Product Manager"
+  short_description: "PRDs, MVP scope, backlog, OKRs, and market focus"
+  default_prompt: "Use $sdlc-pm-product to shape a PRD, MVP scope, backlog, and product metrics."
+  brand_color: "#2563EB"

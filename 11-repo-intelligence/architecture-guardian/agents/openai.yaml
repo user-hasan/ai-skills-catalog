@@ -1,0 +1,7 @@
+interface:
+  display_name: "Architecture Guardian"
+  short_description: "Detect cycles, boundary leaks, and architecture drift"
+  default_prompt: "Use $architecture-guardian to map structural repository risks such as cycles, boundary leaks, and oversized hubs."
+  brand_color: "#7C3AED"
+policy:
+  allow_implicit_invocation: true

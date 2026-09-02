@@ -1,0 +1,19 @@
+{
+  "request_id": "pyqt-test-engine-20260504-daily-radar",
+  "target_skill": "pyqt-test-engine",
+  "category": "frameworks-languages-infra",
+  "source_policy_status": "requires-allowlist-expansion",
+  "signal_summary": [
+    "recommended improvement"
+  ],
+  "source_urls": [
+    "https://pytest-qt.readthedocs.io/en/stable/signals.html"
+  ],
+  "proposed_scope": {
+    "files": [
+      "C:\\Users\\HASAN\\.agents\\skills\\pyqt-test-engine\\SKILL.md",
+      "C:\\Users\\HASAN\\.agents\\skills\\pyqt-test-engine\\references"
+    ],
+    "shared_dependency_declared": false
+  }
+}

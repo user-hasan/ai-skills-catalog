@@ -1,0 +1,12 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "fan_in_threshold": 1,
+  "todo_threshold": 1,
+  "simulated_churn": {
+    "src/common/mega_hub.py": 12,
+    "src/services/reporting.py": 8
+  },
+  "ownerless_paths": [
+    "src/common/mega_hub.py"
+  ]
+}

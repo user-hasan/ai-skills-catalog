@@ -1,0 +1,11 @@
+{
+  "artifact_type": "verification-requirements",
+  "generated_at": "2026-04-28T01:31:22Z",
+  "target_skill": "security-gate",
+  "required_checks": [
+    "Run skill-quality-auditor against the updated skill.",
+    "Run validate_authored_skills.py after the scoped update.",
+    "Confirm only scoped files changed before publishing.",
+    "Inspect referenced downstream skills before publishing."
+  ]
+}

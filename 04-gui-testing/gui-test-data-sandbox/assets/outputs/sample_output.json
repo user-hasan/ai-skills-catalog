@@ -1,0 +1,8 @@
+{
+  "artifact_type": "gui-test-data-sandbox-output",
+  "generated_at": "2026-04-29T23:54:21Z",
+  "artifacts": {
+    "gui_test_plan": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-gui-testing-sample-repo\\.codex-project-intel\\gui\\gui_test_plan.json"
+  },
+  "sandbox_root": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-gui-testing-sample-repo\\.codex-project-intel\\gui\\sandbox"
+}

@@ -1,0 +1,10 @@
+{
+  "artifact_type": "ci-failure-analyzer-output",
+  "generated_at": "2026-04-29T23:32:27Z",
+  "artifacts": {
+    "ci_failure_report": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\ci\\ci_failure_report.json",
+    "diagnostic_findings": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\diagnostics\\diagnostic_findings.json"
+  },
+  "failure_type": "test-or-command",
+  "github_actions_signal_count": 4
+}

@@ -1,0 +1,9 @@
+{
+  "artifact_type": "gui-visual-regression-output",
+  "generated_at": "2026-04-29T23:54:39Z",
+  "artifacts": {
+    "visual_regression_report": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-gui-testing-sample-repo\\.codex-project-intel\\gui\\visual_regression_report.json",
+    "gui_failure_catalog": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-gui-testing-sample-repo\\.codex-project-intel\\gui\\gui_failure_catalog.json"
+  },
+  "status": "planned"
+}

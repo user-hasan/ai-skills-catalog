@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Knowledge Updater"
+  short_description: "Gather skill updates from approved official sources"
+  default_prompt: "Use $skill-knowledge-updater to collect approved-source updates relevant to a skill and prepare an update request."
+  brand_color: "#1D4ED8"
+policy:
+  allow_implicit_invocation: true

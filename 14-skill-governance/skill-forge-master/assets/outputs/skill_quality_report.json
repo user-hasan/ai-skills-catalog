@@ -1,0 +1,13 @@
+{
+  "artifact_type": "skill-quality-report",
+  "generated_at": "2026-04-28T01:30:05Z",
+  "skill": "system-diagnostics",
+  "quality_grade": "new",
+  "total_score": 0,
+  "issues": [
+    {
+      "code": "skill_missing",
+      "message": "Skill does not exist yet."
+    }
+  ]
+}

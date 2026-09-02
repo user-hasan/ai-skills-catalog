@@ -1,0 +1,12 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "large_file_line_threshold": 10,
+  "slow_command_threshold_seconds": 1.0,
+  "commands": [
+    [
+      "python",
+      "-c",
+      "import time; time.sleep(1.2)"
+    ]
+  ]
+}

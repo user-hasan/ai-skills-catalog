@@ -1,0 +1,7 @@
+interface:
+  display_name: "Repo Intake Triage"
+  short_description: "Issue and PR triage with readiness and routing"
+  default_prompt: "Use $repo-intake-triage to classify a new issue or pull request before planning starts."
+  brand_color: "#1D4ED8"
+policy:
+  allow_implicit_invocation: true

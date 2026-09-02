@@ -1,0 +1,14 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "layer_rules": [
+    {
+      "source_prefix": "src/ui",
+      "forbidden_prefixes": [
+        "src/infra"
+      ],
+      "reason": "UI should depend on an application service boundary rather than infrastructure directly."
+    }
+  ],
+  "hub_fan_in_threshold": 2,
+  "large_file_line_threshold": 10
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "CityOfAIAgents Security Hardening"
+  short_description: "Review risks and safe hardening tasks"
+  default_prompt: "Use cityofaiagents-security-hardening to review security risks, safe defaults, hardening boundaries, and evidence-backed mitigation steps."

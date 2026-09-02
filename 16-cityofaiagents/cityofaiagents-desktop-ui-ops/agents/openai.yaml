@@ -1,0 +1,4 @@
+interface:
+  display_name: "CityOfAIAgents Desktop UI Ops"
+  short_description: "Desktop UI analysis and refinement"
+  default_prompt: "Use cityofaiagents-desktop-ui-ops to inspect desktop UI behavior, PyQt flows, dialogs, visual polish, and focused UI bugfix evidence."

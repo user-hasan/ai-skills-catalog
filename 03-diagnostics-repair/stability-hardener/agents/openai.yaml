@@ -1,0 +1,7 @@
+interface:
+  display_name: "Stability Hardener"
+  short_description: "Operational resilience and hardening plan builder"
+  default_prompt: "Use $stability-hardener to operational resilience and hardening plan builder for the current repository."
+  brand_color: "#0891B2"
+policy:
+  allow_implicit_invocation: true

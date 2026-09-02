@@ -1,0 +1,7 @@
+interface:
+  display_name: "GUI Failure Recorder"
+  short_description: "Structured GUI failure catalog and error log writer"
+  default_prompt: "Use $gui-failure-recorder to structured gui failure catalog and error log writer for the current repository."
+  brand_color: "#DC2626"
+policy:
+  allow_implicit_invocation: true

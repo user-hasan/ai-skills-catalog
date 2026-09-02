@@ -1,0 +1,21 @@
+{
+  "request_id": "security-gate-20260428",
+  "target_skill": "security-gate",
+  "category": "security",
+  "signal_summary": [
+    "security-driven update",
+    "recommended improvement"
+  ],
+  "source_urls": [
+    "https://www.cisa.gov/known-exploited-vulnerabilities",
+    "https://owasp.org/www-project-top-ten/"
+  ],
+  "proposed_scope": {
+    "files": [
+      "C:\\Users\\HASAN\\.agents\\skills\\security-gate\\SKILL.md",
+      "C:\\Users\\HASAN\\.agents\\skills\\security-gate\\references",
+      "C:\\Users\\HASAN\\.agents\\skills\\security-gate\\scripts"
+    ],
+    "shared_dependency_declared": false
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Performance Auditor"
+  short_description: "Detect slow paths, build drag, and scaling risk"
+  default_prompt: "Use $performance-auditor to scan a repository for slow-test patterns, oversized hotspots, and likely scaling risk."
+  brand_color: "#CA8A04"
+policy:
+  allow_implicit_invocation: true

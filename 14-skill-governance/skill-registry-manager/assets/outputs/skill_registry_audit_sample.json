@@ -1,0 +1,29 @@
+{
+  "artifact_type": "skill-registry-audit",
+  "authored_count": 4,
+  "published_count": 3,
+  "unpublished_skills": [
+    "skill-registry-manager"
+  ],
+  "orphaned_published_skills": [],
+  "platform_managed_published_skills": [],
+  "local_system_published_entries": [],
+  "authored_registry_gaps": [
+    "skill-registry-manager"
+  ],
+  "metadata_failures": [],
+  "validation_artifacts": {
+    "authored_validation_report": "C:/Users/HASAN/.agents/skills/sdlc-system/AUTHORED_VALIDATION_REPORT.md",
+    "authored_validation_report_exists": true,
+    "authored_validation_report_last_modified_at": "2026-05-04T00:00:00Z",
+    "status": "stale",
+    "skills_newer_than_validation": [
+      {
+        "skill": "skill-registry-manager",
+        "last_modified_at": "2026-05-04T00:05:00Z"
+      }
+    ],
+    "newest_authored_skill": "skill-registry-manager",
+    "newest_authored_skill_last_modified_at": "2026-05-04T00:05:00Z"
+  }
+}

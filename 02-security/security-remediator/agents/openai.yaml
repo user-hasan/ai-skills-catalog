@@ -1,0 +1,7 @@
+interface:
+  display_name: "Security Remediator"
+  short_description: "Scoped security remediation planning and repair routing"
+  default_prompt: "Use $security-remediator to scoped security remediation planning and repair routing for the current repository."
+  brand_color: "#DC2626"
+policy:
+  allow_implicit_invocation: true

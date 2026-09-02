@@ -1,0 +1,7 @@
+interface:
+  display_name: "Evidence Sync"
+  short_description: "Evidence bundle and handoff preparation"
+  default_prompt: "Use $evidence-sync to evidence bundle and handoff preparation for the current repository."
+  brand_color: "#16A34A"
+policy:
+  allow_implicit_invocation: true

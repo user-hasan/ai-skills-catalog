@@ -1,0 +1,7 @@
+interface:
+  display_name: "CI Failure Analyzer"
+  short_description: "CI log triage and local reproduction mapping"
+  default_prompt: "Use $ci-failure-analyzer to ci log triage and local reproduction mapping for the current repository."
+  brand_color: "#7C3AED"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Desktop UI Designer"
+  short_description: "Desktop UI design with Win7-safe modern patterns"
+  default_prompt: "Use $desktop-ui-designer to redesign a desktop UI while respecting Windows capability limits."
+  icon_small: "./assets/desktop-ui-designer-sml.svg"
+  icon_large: "./assets/desktop-ui-designer.svg"

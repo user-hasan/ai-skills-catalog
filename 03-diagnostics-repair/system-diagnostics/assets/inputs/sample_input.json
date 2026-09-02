@@ -1,0 +1,13 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "commands": [
+    [
+      "python",
+      "scripts/fail_build.py"
+    ]
+  ],
+  "required_runtime_files": [
+    ".env"
+  ],
+  "persist_artifacts": true
+}

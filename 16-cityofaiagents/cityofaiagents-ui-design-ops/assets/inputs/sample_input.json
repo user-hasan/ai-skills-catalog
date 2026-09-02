@@ -1,0 +1,12 @@
+{
+  "screen": "Main desktop dashboard",
+  "issues": [
+    "Sidebar and top bar compete for attention",
+    "Spacing between cards is inconsistent",
+    "Critical actions are visually mixed with support actions"
+  ],
+  "constraints": [
+    "Preserve RTL support",
+    "Keep support tooling visible but secondary"
+  ]
+}

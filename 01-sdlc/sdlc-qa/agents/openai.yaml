@@ -1,0 +1,5 @@
+interface:
+  display_name: "QA Engineer"
+  short_description: "Test planning, automation, performance, and defects"
+  default_prompt: "Use $sdlc-qa to design test plans, test cases, regression coverage, and performance checks."
+  brand_color: "#0891B2"

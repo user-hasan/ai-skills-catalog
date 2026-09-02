@@ -1,0 +1,18 @@
+{
+  "artifact_type": "docs-sync-plan",
+  "update_backlog": [
+    {
+      "target": "docs/runbook.md",
+      "owner": "operations-owner",
+      "reason": "Detected triggers: deploy, rollback"
+    },
+    {
+      "target": "CHANGELOG.md",
+      "owner": "release-owner",
+      "reason": "Detected triggers: release"
+    }
+  ],
+  "gating_rules": [
+    "Update operational docs before or with release notes."
+  ]
+}

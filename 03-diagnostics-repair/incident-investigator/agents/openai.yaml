@@ -1,0 +1,7 @@
+interface:
+  display_name: "Incident Investigator"
+  short_description: "Runtime incident root-cause evidence builder"
+  default_prompt: "Use $incident-investigator to runtime incident root-cause evidence builder for the current repository."
+  brand_color: "#F97316"
+policy:
+  allow_implicit_invocation: true

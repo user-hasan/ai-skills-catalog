@@ -1,0 +1,7 @@
+interface:
+  display_name: "Change Impact Mapper"
+  short_description: "Change impact, affected files, tests, and docs"
+  default_prompt: "Use $change-impact-mapper to change impact, affected files, tests, and docs for the current repository."
+  brand_color: "#2563EB"
+policy:
+  allow_implicit_invocation: true

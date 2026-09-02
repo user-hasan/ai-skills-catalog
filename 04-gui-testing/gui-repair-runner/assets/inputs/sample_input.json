@@ -1,0 +1,11 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-gui-testing-sample-repo",
+  "verification_command": [
+    "python",
+    "-m",
+    "pytest",
+    "-q",
+    "tests/test_app_window.py::test_main_window_title"
+  ],
+  "run_retest": false
+}

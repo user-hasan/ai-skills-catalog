@@ -1,0 +1,26 @@
+{
+  "artifact_type": "cityofaiagents-ui-design-ops-brief",
+  "artifact_id": "SKL-0010",
+  "revision": 3,
+  "supported_tags": [
+    "ui-design",
+    "ux-strategy",
+    "visual-design",
+    "desktop-ui",
+    "theme-system",
+    "accessibility",
+    "design-research"
+  ],
+  "focus_areas": [
+    "layout and spacing",
+    "visual hierarchy and theming",
+    "accessibility and localization"
+  ],
+  "reference_urls": [
+    "https://developer.apple.com/design/human-interface-guidelines/layout",
+    "https://fluent2.microsoft.design/layout",
+    "https://m3.material.io/",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/"
+  ],
+  "input_summary": "screen Main desktop dashboard issues Sidebar and top bar compete for attention Spacing between cards is inconsistent Critical actions are visually mixed with support actions constraints Preserve RTL support Keep support tooling visible but secondary"
+}

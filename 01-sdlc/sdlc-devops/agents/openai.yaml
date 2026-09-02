@@ -1,0 +1,5 @@
+interface:
+  display_name: "DevOps Engineer"
+  short_description: "CI/CD, IaC, observability, secrets, and rollback"
+  default_prompt: "Use $sdlc-devops to plan CI/CD, infrastructure, monitoring, secrets, and rollback strategy."
+  brand_color: "#B45309"

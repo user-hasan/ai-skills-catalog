@@ -1,0 +1,28 @@
+{
+  "artifact_type": "delivery-sync-payload",
+  "project_name": "platform-upgrade",
+  "normalized_items": [
+    {
+      "external_key": "PLAT-101",
+      "title": "Ship migration dry run",
+      "status": "in-progress",
+      "owner": "infra",
+      "priority": "high"
+    }
+  ],
+  "linear": {
+    "project_update": {
+      "title": "platform-upgrade delivery sync",
+      "summary": "Sync 1 delivery items into Linear."
+    },
+    "issues": [
+      {
+        "external_key": "PLAT-101",
+        "title": "Ship migration dry run",
+        "status": "in-progress",
+        "owner": "infra",
+        "priority": "high"
+      }
+    ]
+  }
+}

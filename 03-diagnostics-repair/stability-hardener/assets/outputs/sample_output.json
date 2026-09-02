@@ -1,0 +1,9 @@
+{
+  "artifact_type": "stability-hardener-output",
+  "generated_at": "2026-04-29T23:32:38Z",
+  "artifacts": {
+    "hardening_plan": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\stability\\hardening_plan.json",
+    "repair_plan": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\remediation\\repair_plan.json"
+  },
+  "hardening_item_count": 5
+}

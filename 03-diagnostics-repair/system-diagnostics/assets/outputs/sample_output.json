@@ -1,0 +1,11 @@
+{
+  "artifact_type": "system-diagnostics-output",
+  "generated_at": "2026-04-28T01:58:03Z",
+  "repo_root": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "finding_count": 3,
+  "failure_catalog_count": 3,
+  "artifacts": {
+    "diagnostic_findings": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\diagnostics\\diagnostic_findings.json",
+    "failure_catalog": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\diagnostics\\failure_catalog.json"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-gui-testing-sample-repo",
+  "app_command": [
+    "python",
+    "src/app_window.py"
+  ],
+  "steps": [
+    "launch app",
+    "click main window",
+    "capture screenshot"
+  ],
+  "assertions": [
+    "main window is visible"
+  ],
+  "run_e2e": false
+}

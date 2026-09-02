@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Forge Master"
+  short_description: "Design, improve, and govern high-quality Codex skills"
+  default_prompt: "Use $skill-forge-master to design a new skill or improve an existing one with a scoped implementation plan."
+  brand_color: "#4F46E5"
+policy:
+  allow_implicit_invocation: true

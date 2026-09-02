@@ -1,0 +1,9 @@
+{
+  "artifact_type": "incident-investigator-output",
+  "generated_at": "2026-04-29T23:32:33Z",
+  "artifacts": {
+    "incident_report": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\incidents\\incident_report.json",
+    "diagnostic_findings": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\diagnostics\\diagnostic_findings.json"
+  },
+  "incident_count": 1
+}

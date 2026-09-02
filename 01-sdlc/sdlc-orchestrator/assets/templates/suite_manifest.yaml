@@ -1,0 +1,11 @@
+suite_name: "sdlc-skill-suite"
+skills:
+  - "requirements-discovery"
+  - "product-planning"
+  - "business-analysis"
+  - "architecture"
+  - "development"
+  - "quality-assurance"
+  - "devops"
+  - "project-management"
+  - "orchestration"

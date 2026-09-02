@@ -1,0 +1,15 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "security_findings": [
+    {
+      "id": "security-risk-001",
+      "title": "Pinned dependency has a security advisory",
+      "severity": "high",
+      "confidence": 0.91,
+      "affected_files": [
+        "requirements.txt"
+      ],
+      "recommended_action": "Update only the vulnerable package to the advisory-safe version and rerun dependency checks."
+    }
+  ]
+}

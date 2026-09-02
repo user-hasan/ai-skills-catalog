@@ -1,0 +1,7 @@
+interface:
+  display_name: "Regression Guard"
+  short_description: "Map blast radius and verification before repairs"
+  default_prompt: "Use $regression-guard to calculate blast radius and verification requirements before a repository fix."
+  brand_color: "#0E7490"
+policy:
+  allow_implicit_invocation: true

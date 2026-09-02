@@ -1,0 +1,7 @@
+interface:
+  display_name: "PyQt Test Engine"
+  short_description: "pytest-qt widget, dialog, and window test execution"
+  default_prompt: "Use $pyqt-test-engine to pytest-qt widget, dialog, and window test execution for the current repository."
+  brand_color: "#2563EB"
+policy:
+  allow_implicit_invocation: true

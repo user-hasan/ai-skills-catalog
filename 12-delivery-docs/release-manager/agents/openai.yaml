@@ -1,0 +1,7 @@
+interface:
+  display_name: "Release Manager"
+  short_description: "Release notes, semver, and rollback planning"
+  default_prompt: "Use $release-manager to package release notes, version guidance, and rollback readiness."
+  brand_color: "#B45309"
+policy:
+  allow_implicit_invocation: true

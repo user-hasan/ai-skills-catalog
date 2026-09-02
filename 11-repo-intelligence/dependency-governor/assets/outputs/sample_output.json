@@ -1,0 +1,10 @@
+{
+  "artifact_type": "dependency-governor-output",
+  "generated_at": "2026-04-28T01:58:04Z",
+  "repo_root": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "dependency_count": 6,
+  "risk_count": 7,
+  "artifacts": {
+    "risk_register": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\risks\\risk_register.json"
+  }
+}

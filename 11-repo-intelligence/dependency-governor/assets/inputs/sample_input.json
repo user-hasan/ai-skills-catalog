@@ -1,0 +1,20 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "baselines": {
+    "django": {
+      "min_major": 3
+    },
+    "requests": {
+      "min_minor": 25
+    },
+    "express": {
+      "min_major": 4
+    },
+    "lodash": {
+      "min_minor": 17
+    }
+  },
+  "abandoned_packages": [
+    "left-pad"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "artifact_type": "pyqt-test-engine-output",
+  "generated_at": "2026-04-29T23:54:21Z",
+  "artifacts": {
+    "gui_test_results": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-gui-testing-sample-repo\\.codex-project-intel\\gui\\gui_test_results.json",
+    "gui_failure_catalog": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-gui-testing-sample-repo\\.codex-project-intel\\gui\\gui_failure_catalog.json"
+  },
+  "failure_count": 0
+}

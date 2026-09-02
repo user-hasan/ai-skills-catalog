@@ -1,0 +1,41 @@
+{
+  "artifact_type": "skill-update-request",
+  "generated_at": "2026-04-28T01:30:05Z",
+  "request_id": "skill-knowledge-updater-20260428T013005Z",
+  "target_skill": "skill-knowledge-updater",
+  "category": "openai-codex",
+  "origin": "skill-knowledge-updater",
+  "topic": "Refresh OpenAI runtime guidance from approved sources",
+  "signal_summary": [
+    "general documentation update",
+    "general documentation update"
+  ],
+  "source_policy_status": "approved",
+  "source_urls": [
+    "https://platform.openai.com/docs/overview",
+    "https://platform.openai.com/docs/models"
+  ],
+  "proposed_scope": {
+    "files": [
+      "C:\\Users\\HASAN\\.agents\\skills\\skill-knowledge-updater\\SKILL.md",
+      "C:\\Users\\HASAN\\.agents\\skills\\skill-knowledge-updater\\agents\\openai.yaml",
+      "C:\\Users\\HASAN\\.agents\\skills\\skill-knowledge-updater\\references",
+      "C:\\Users\\HASAN\\.agents\\skills\\skill-knowledge-updater\\scripts"
+    ],
+    "shared_dependency_declared": false
+  },
+  "recommended_action": "Review source evidence, refresh target skill guidance, and keep changes scoped to the skill directory.",
+  "runtime_update_notes": {
+    "approval_required": true,
+    "polling_required": true,
+    "schema_adherence_required": true,
+    "official_source_required": true,
+    "detected_runtime_topics": [
+      "tool-surface",
+      "mcp-approval",
+      "background-mode",
+      "structured-output",
+      "source-discipline"
+    ]
+  }
+}

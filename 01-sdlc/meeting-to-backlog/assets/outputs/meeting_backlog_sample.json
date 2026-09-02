@@ -1,0 +1,19 @@
+{
+  "artifact_type": "meeting-to-backlog",
+  "decisions": [
+    "Decision: ship the migration checklist before the pilot rollout"
+  ],
+  "risks": [
+    "Risk: the legacy API team has not confirmed rate limits"
+  ],
+  "stories": [
+    {
+      "story_id": "MTB-001",
+      "title": "Action: we need a rollback dry run in staging",
+      "status": "todo"
+    }
+  ],
+  "next_questions": [
+    "Which owner is accountable for each open action?"
+  ]
+}

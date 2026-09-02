@@ -1,0 +1,11 @@
+{
+  "artifact_type": "defect-fixer-output",
+  "generated_at": "2026-04-28T01:58:06Z",
+  "repo_root": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "artifacts": {
+    "repair_plan": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\remediation\\repair_plan.json",
+    "verification_report": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\verification\\verification_report.json"
+  },
+  "repair_step_count": 2,
+  "applied_change_count": 0
+}

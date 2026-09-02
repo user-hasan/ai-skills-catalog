@@ -1,0 +1,24 @@
+{
+  "artifact_type": "skill-change-impact-report",
+  "generated_at": "2026-04-28T01:30:05Z",
+  "skill": "security-gate",
+  "direct_skill_references": [],
+  "governance_files_to_check": [
+    "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\source_policies.json",
+    "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\registry.json",
+    "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\skill_versions.json"
+  ],
+  "transitive_governance_hints": [
+    "docs-automation",
+    "release-manager",
+    "skill-change-impact-analyzer",
+    "skill-forge-master",
+    "skill-knowledge-updater",
+    "skill-registry-manager",
+    "skill-update-governor"
+  ],
+  "summary": {
+    "direct_reference_count": 0,
+    "requires_governance_review": true
+  }
+}

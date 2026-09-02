@@ -1,0 +1,36 @@
+{
+  "artifact_type": "skill-quality-report",
+  "generated_at": "2026-04-28T01:30:05Z",
+  "skill": "codebase-intelligence",
+  "display_name": "Codebase Intelligence",
+  "scores": {
+    "trigger_quality": 6,
+    "instruction_clarity": 6,
+    "resource_design": 3,
+    "determinism": 3,
+    "validation_strength": 2,
+    "update_safety": 2
+  },
+  "total_score": 22,
+  "quality_grade": "excellent",
+  "issues": [
+    {
+      "code": "sample_inputs_missing",
+      "message": "No sample inputs are present under assets/inputs."
+    }
+  ],
+  "inventory": {
+    "scripts": 1,
+    "references": 2,
+    "asset_inputs": 0,
+    "asset_outputs": 4
+  },
+  "metadata": {
+    "description_length": 496,
+    "default_prompt": "Use $codebase-intelligence to analyze a repository, map file relationships, and refresh durable project intelligence artifacts.",
+    "frontmatter_keys": [
+      "description",
+      "name"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "GUI Flake Stabilizer"
+  short_description: "GUI flake classification and stabilization planning"
+  default_prompt: "Use $gui-flake-stabilizer to gui flake classification and stabilization planning for the current repository."
+  brand_color: "#F97316"
+policy:
+  allow_implicit_invocation: true

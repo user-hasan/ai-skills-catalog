@@ -1,0 +1,4 @@
+interface:
+  display_name: "CityOfAIAgents Workflow Governance"
+  short_description: "Govern manager planner monitor flows"
+  default_prompt: "Use cityofaiagents-workflow-governance to reason about approval flows, bundle verification, planner dispatch, monitor rules, and workflow governance."

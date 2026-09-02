@@ -1,0 +1,13 @@
+{
+  "changes": [
+    {
+      "title": "Add tenant export API feature"
+    },
+    {
+      "title": "Fix login regression on Windows"
+    },
+    {
+      "title": "Update release runbook docs"
+    }
+  ]
+}

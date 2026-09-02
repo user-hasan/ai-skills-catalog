@@ -1,0 +1,7 @@
+interface:
+  display_name: "GUI Repair Runner"
+  short_description: "GUI failure repair planning and retest closure"
+  default_prompt: "Use $gui-repair-runner to gui failure repair planning and retest closure for the current repository."
+  brand_color: "#B91C1C"
+policy:
+  allow_implicit_invocation: true

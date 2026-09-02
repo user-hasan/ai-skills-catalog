@@ -1,0 +1,5 @@
+interface:
+  display_name: "Requirements Guru"
+  short_description: "Discovery, scope, readiness, and risk analysis"
+  default_prompt: "Use $sdlc-requirements-guru to analyze a project before architecture or coding starts."
+  brand_color: "#7C3AED"

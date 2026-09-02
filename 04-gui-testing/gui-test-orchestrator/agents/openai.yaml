@@ -1,0 +1,7 @@
+interface:
+  display_name: "GUI Test Orchestrator"
+  short_description: "GUI test strategy, routing, and evidence coordination"
+  default_prompt: "Use $gui-test-orchestrator to gui test strategy, routing, and evidence coordination for the current repository."
+  brand_color: "#0F766E"
+policy:
+  allow_implicit_invocation: true

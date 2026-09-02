@@ -1,0 +1,5 @@
+interface:
+  display_name: "Business Analyst"
+  short_description: "Requirements analysis, stories, gaps, and traceability"
+  default_prompt: "Use $sdlc-ba to turn product requirements into stories, process maps, and traceable acceptance criteria."
+  brand_color: "#0F766E"

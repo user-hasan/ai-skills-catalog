@@ -1,0 +1,7 @@
+interface:
+  display_name: "Security Gate"
+  short_description: "Security finding triage and release gating"
+  default_prompt: "Use $security-gate to rank security findings and decide whether release work is blocked."
+  brand_color: "#DC2626"
+policy:
+  allow_implicit_invocation: true

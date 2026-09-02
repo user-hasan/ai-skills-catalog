@@ -1,0 +1,7 @@
+interface:
+  display_name: "CityOfAIAgents Firmware Gap Ops"
+  short_description: "Mirrored firmware gap operations guidance"
+  default_prompt: "Use $cityofaiagents-firmware-gap-ops when firmware gap operations guidance is needed."
+  brand_color: "#475569"
+policy:
+  allow_implicit_invocation: true

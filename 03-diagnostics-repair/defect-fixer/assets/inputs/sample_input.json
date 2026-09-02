@@ -1,0 +1,42 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "allow_edits": false,
+  "findings": [
+    {
+      "id": "unresolvedimport-001",
+      "type": "imports",
+      "title": "Unresolved local import: src.runtime",
+      "affected_files": [
+        "src/api/app.py"
+      ],
+      "recommended_action": "Restore the missing module or correct the import path."
+    },
+    {
+      "id": "missingconfig-001",
+      "type": "config",
+      "title": "Missing runtime configuration file: .env",
+      "affected_files": [
+        ".env"
+      ],
+      "recommended_action": "Create the runtime configuration file or document how the environment is injected."
+    }
+  ],
+  "verification_requirements": {
+    "target_files": [
+      "src/api/app.py",
+      ".env"
+    ],
+    "impacted_files": [
+      "src/api/app.py",
+      "src/common/mega_hub.py",
+      ".env"
+    ],
+    "impacted_tests": [
+      "tests/test_app.py"
+    ],
+    "required_checks": [
+      "Compile or import-check the affected entrypoints.",
+      "Run the impacted tests."
+    ]
+  }
+}

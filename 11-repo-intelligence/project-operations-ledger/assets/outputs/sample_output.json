@@ -1,0 +1,35 @@
+{
+  "artifact_type": "project-operations-ledger-output",
+  "generated_at": "2026-04-28T01:58:03Z",
+  "repo_root": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "intel_root": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel",
+  "project_intelligence": {
+    "artifact_type": "project-intelligence",
+    "generated_at": "2026-04-28T01:58:03Z",
+    "repo_root": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+    "file_count": 14,
+    "languages": {
+      "python": 10
+    },
+    "manifests": [
+      "requirements.txt",
+      "package.json"
+    ],
+    "top_level_paths": [
+      ".env.example",
+      "README.md",
+      "package.json",
+      "requirements.txt",
+      "scripts",
+      "src",
+      "tests"
+    ]
+  },
+  "artifacts": {
+    "project_memory": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\project_memory.md",
+    "project_intelligence": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\project_intelligence.json",
+    "operations_log": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\progress\\operations_log.jsonl",
+    "progress_state": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\progress\\progress_state.json",
+    "decision_log": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo\\.codex-project-intel\\decisions\\decision_log.md"
+  }
+}

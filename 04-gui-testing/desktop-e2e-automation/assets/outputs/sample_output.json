@@ -1,0 +1,9 @@
+{
+  "artifact_type": "desktop-e2e-automation-output",
+  "generated_at": "2026-04-29T23:54:21Z",
+  "artifacts": {
+    "e2e_run_log": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-gui-testing-sample-repo\\.codex-project-intel\\gui\\e2e_run_log.json",
+    "screenshots": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-gui-testing-sample-repo\\.codex-project-intel\\gui\\screenshots"
+  },
+  "status": "planned"
+}

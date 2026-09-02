@@ -1,0 +1,5 @@
+interface:
+  display_name: "Developer"
+  short_description: "Code structure, standards, tests, and API docs"
+  default_prompt: "Use $sdlc-dev to prepare code structure, conventions, review findings, and unit test coverage plans."
+  brand_color: "#DC2626"

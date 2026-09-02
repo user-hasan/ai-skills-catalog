@@ -1,0 +1,7 @@
+interface:
+  display_name: "Dependency Governor"
+  short_description: "Detect dependency drift, package risk, and lockfile gaps"
+  default_prompt: "Use $dependency-governor to inspect local dependency manifests for drift, risky versions, and packaging gaps."
+  brand_color: "#0369A1"
+policy:
+  allow_implicit_invocation: true

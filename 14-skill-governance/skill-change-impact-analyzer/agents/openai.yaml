@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Change Impact Analyzer"
+  short_description: "Assess downstream impact before changing a skill"
+  default_prompt: "Use $skill-change-impact-analyzer to evaluate what other skills or governance files may be affected by a proposed skill change."
+  brand_color: "#7C2D12"
+policy:
+  allow_implicit_invocation: true

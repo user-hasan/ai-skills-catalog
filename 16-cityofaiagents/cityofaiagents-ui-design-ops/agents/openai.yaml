@@ -1,0 +1,7 @@
+interface:
+  display_name: "CityOfAIAgents UI Design Ops"
+  short_description: "Mirrored desktop UI design operations guidance"
+  default_prompt: "Use $cityofaiagents-ui-design-ops when desktop UI design operations guidance is needed."
+  brand_color: "#0F766E"
+policy:
+  allow_implicit_invocation: true

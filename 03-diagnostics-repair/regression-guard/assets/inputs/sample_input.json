@@ -1,0 +1,25 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "target_files": [
+    "src/api/app.py",
+    "src/services/billing.py"
+  ],
+  "findings": [
+    {
+      "id": "commandfailure-001",
+      "type": "commands",
+      "title": "Command failed: python scripts/fail_build.py",
+      "affected_files": [],
+      "recommended_action": "Repair the failing build command before release."
+    },
+    {
+      "id": "unresolvedimport-001",
+      "type": "imports",
+      "title": "Unresolved local import: src.runtime",
+      "affected_files": [
+        "src/api/app.py"
+      ],
+      "recommended_action": "Restore the missing module or correct the import path."
+    }
+  ]
+}

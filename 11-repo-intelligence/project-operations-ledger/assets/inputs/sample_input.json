@@ -1,0 +1,40 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "action": "init",
+  "memory_notes": [
+    "Sample repository prepared for enterprise Wave 1 smoke validation."
+  ],
+  "events": [
+    {
+      "action": "initialize-project-intel",
+      "target": "enterprise-wave1-sample-repo",
+      "status": "completed",
+      "details": {
+        "reason": "Wave 1 smoke validation"
+      }
+    }
+  ],
+  "progress_update": {
+    "completed": [
+      "project-operations-ledger"
+    ],
+    "pending": [
+      "system-diagnostics",
+      "architecture-guardian",
+      "dependency-governor",
+      "performance-auditor",
+      "regression-guard",
+      "defect-fixer",
+      "future-risk-forecast"
+    ],
+    "notes": [
+      "Foundation initialized by project-operations-ledger smoke test."
+    ]
+  },
+  "decisions": [
+    {
+      "title": "Wave 1 initialization",
+      "body": "The sample repository now uses the .codex-project-intel contract as the shared artifact model."
+    }
+  ]
+}

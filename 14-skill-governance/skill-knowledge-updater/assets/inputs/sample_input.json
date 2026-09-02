@@ -1,0 +1,18 @@
+{
+  "skill": "skill-knowledge-updater",
+  "category": "openai-codex",
+  "topic": "Refresh OpenAI runtime guidance from approved sources",
+  "side_effects_enabled": false,
+  "offline_sources": [
+    {
+      "url": "https://platform.openai.com/docs/overview",
+      "title": "OpenAI Platform overview",
+      "text": "OpenAI platform guidance covers tools, Structured Outputs, JSON schema adherence, background mode polling, and approval requirements for MCP-style tool access."
+    },
+    {
+      "url": "https://platform.openai.com/docs/models",
+      "title": "OpenAI models",
+      "text": "Model and tool surface documentation should be treated as the implementation authority for OpenAI and Codex skill updates."
+    }
+  ]
+}

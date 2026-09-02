@@ -1,0 +1,5 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "incident_description": "Application crashes during startup after loading configuration.",
+  "logs": "Traceback (most recent call last):\n  File \"src/api/app.py\", line 12, in bootstrap\n    raise RuntimeError('config missing')\nRuntimeError: config missing\n"
+}

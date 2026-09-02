@@ -1,0 +1,7 @@
+interface:
+  display_name: "GUI Test Data Sandbox"
+  short_description: "Temporary GUI test data, settings, and cleanup contracts"
+  default_prompt: "Use $gui-test-data-sandbox to temporary gui test data, settings, and cleanup contracts for the current repository."
+  brand_color: "#16A34A"
+policy:
+  allow_implicit_invocation: true

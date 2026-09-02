@@ -1,0 +1,7 @@
+interface:
+  display_name: "Project Operations Ledger"
+  short_description: "Project memory, status, and operations logging"
+  default_prompt: "Use $project-operations-ledger to initialize or update the shared .codex-project-intel workspace for a repository."
+  brand_color: "#0F766E"
+policy:
+  allow_implicit_invocation: true

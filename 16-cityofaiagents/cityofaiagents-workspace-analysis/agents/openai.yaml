@@ -1,0 +1,4 @@
+interface:
+  display_name: "CityOfAIAgents Workspace Analysis"
+  short_description: "Inspect repos environments and commands"
+  default_prompt: "Use cityofaiagents-workspace-analysis to inspect repositories, ground runtime environments, discover commands, and capture workspace notes."

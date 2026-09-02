@@ -1,0 +1,5 @@
+interface:
+  display_name: "Project Manager"
+  short_description: "Sprint plans, task balance, progress, and reporting"
+  default_prompt: "Use $sdlc-pm-project to plan sprints, assign work, track progress, and manage delivery risk."
+  brand_color: "#16A34A"

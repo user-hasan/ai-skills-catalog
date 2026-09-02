@@ -1,0 +1,20 @@
+{
+  "artifact_type": "release-bundle",
+  "suggested_version_bump": "minor",
+  "release_notes": {
+    "breaking": [],
+    "features": [
+      "Add tenant export API feature"
+    ],
+    "fixes": [
+      "Fix login regression on Windows"
+    ],
+    "docs": [
+      "Update release runbook docs"
+    ],
+    "ops": []
+  },
+  "rollback_checklist": [
+    "Confirm the previous stable version tag."
+  ]
+}

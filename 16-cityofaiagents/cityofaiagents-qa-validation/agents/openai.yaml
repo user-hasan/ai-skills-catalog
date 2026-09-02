@@ -1,0 +1,4 @@
+interface:
+  display_name: "CityOfAIAgents QA Validation"
+  short_description: "Capture compile smoke and QA evidence"
+  default_prompt: "Use cityofaiagents-qa-validation to plan and record compile checks, smoke tests, validation commands, comparisons, and run evidence."

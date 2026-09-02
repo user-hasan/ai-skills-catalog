@@ -1,0 +1,4 @@
+{
+  "repo_path": "C:\\Users\\HASAN\\.agents\\skills\\_skill-governance\\fixtures\\enterprise-wave1-sample-repo",
+  "ci_log": "Run python -m pytest tests/test_app.py\nFAILED tests/test_app.py::test_bootstrap - AssertionError\nFile \"src/api/app.py\", line 12, in bootstrap\n"
+}

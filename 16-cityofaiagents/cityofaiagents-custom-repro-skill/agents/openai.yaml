@@ -1,0 +1,7 @@
+interface:
+  display_name: "CityOfAIAgents Custom Repro Skill"
+  short_description: "Mirrored reproducible GUI investigation guidance"
+  default_prompt: "Use $cityofaiagents-custom-repro-skill when reproducible GUI investigation guidance is needed."
+  brand_color: "#475569"
+policy:
+  allow_implicit_invocation: true

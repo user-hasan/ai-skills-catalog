@@ -1,0 +1,7 @@
+interface:
+  display_name: "Future Risk Forecast"
+  short_description: "Forecast fragility and future operational risk"
+  default_prompt: "Use $future-risk-forecast to predict fragile repository hotspots before they become active failures."
+  brand_color: "#9333EA"
+policy:
+  allow_implicit_invocation: true

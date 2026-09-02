@@ -1,0 +1,16 @@
+{
+  "artifact_type": "repo-intake-triage",
+  "category": "bug",
+  "severity": "medium",
+  "ready_for_execution": true,
+  "missing_context": [],
+  "suggested_labels": [
+    "type:bug",
+    "severity:medium"
+  ],
+  "routing": {
+    "owner_group": "engineering-owner",
+    "next_skill": "sdlc-pm-project"
+  },
+  "follow_up_questions": []
+}

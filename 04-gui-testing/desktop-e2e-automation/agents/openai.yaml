@@ -1,0 +1,7 @@
+interface:
+  display_name: "Desktop E2E Automation"
+  short_description: "PyAutoGUI desktop automation planning and run logs"
+  default_prompt: "Use $desktop-e2e-automation to pyautogui desktop automation planning and run logs for the current repository."
+  brand_color: "#9333EA"
+policy:
+  allow_implicit_invocation: true
